@@ -1,0 +1,29 @@
+REACT JS
+
+javascript, no html
+abarca menos, pero de manera correcta
+menos pero mejores recursos
+libreria que puede complementarse o combinar con otras librerias
+mas rapido y ligero
+mas simple de manejar
+componentes pequeños de mejor calidad
+manejo de vista controlado
+se facilita la programacion
+invierte menos tiempo en traducir 
+solo se agregan librerias 
+no necesita ejecutar el programa para detectar errores
+detecta errores y permite correccion en la programacion
+si no compila no muestra el componente en el cliente
+se coloca el html dentro del js
+importar por completo la carpeta 
+se compila en el dispositivo movil, no se interpreta
+es aplicacion nativa
+
+Conclusion
+
+Llegamos a la concluciòn de no optar espesificamente por Angularjs o Reactjs
+ya que la aplicaciòn para cada parte puede ser diferente ya que Reactjs es una gran
+desiciòn para la programaciòn en javascript pero es muy dificl la implementaciòn de HTML
+a la cotra de Angularjs que es mejor en html pero  se puede programar en javascript
+pero no mucho.
+

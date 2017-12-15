@@ -1,0 +1,15 @@
+Arquitectura de red
+
+Etapas: 
+	Servidor
+ 1. Base de datos
+ 2. Servidor SO
+ 3. Proveedor de servicios del servidor
+ 4. Seguridad
+  
+	Cliente
+ 1. Roles de Usuario (Administrador, Supervisor, Gerente) (Plataforma)
+ 2. Usuario comun (App / Device Movil) 
+
+
+Los datos deben de ser atomicos (su propia identidad). 
